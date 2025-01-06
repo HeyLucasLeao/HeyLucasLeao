@@ -2,6 +2,7 @@
 
 - [Meu Modelo Conforme](https://heylucasleao.com.br/Meu-Modelo-Conforme-134a0de3378e80728ad4f279c80fb065)
 - [Conformal Prediction (CP) Study](https://github.com/HeyLucasLeao/cp-study/tree/master?tab=readme-ov-file)
+- [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
 - [Ansiedade e Pandemia: Análise Exploratória no Tweets ao longo de 4 anos](https://heylucasleao-ansiedade-e-pandemia-streamlit-app-5889dq.streamlit.app/)
 - [Notícias da Fundação de Vigilância em Saúde do Amazonas (FVS-AM)](https://heylucasleao-noticias-fvs-am-streamlit-app-bxbdpc.streamlit.app/)
 - [Zhang's Metric](https://github.com/HeyLucasLeao/zhangmetric)
