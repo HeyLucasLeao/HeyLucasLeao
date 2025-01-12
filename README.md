@@ -5,7 +5,7 @@
 - [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
 - [TinyCP](https://github.com/HeyLucasLeao/tinycp)
 - [Ansiedade e Pandemia: Análise Exploratória no Tweets ao longo de 4 anos](https://heylucasleao-ansiedade-e-pandemia-streamlit-app-5889dq.streamlit.app/)
-- [Zhang's Metric](https://github.com/HeyLucasLeao/zhangmetric)
+
 <!--
 **HeyLucasLeao/HeyLucasLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
