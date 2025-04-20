@@ -1,9 +1,8 @@
 ## [Aoba!](https://heylucasleao.com.br/) 👋
 
-- [Meu Modelo Conforme](https://heylucasleao.com.br/Meu-Modelo-Conforme-134a0de3378e80728ad4f279c80fb065)
-- [Conformal Prediction (CP) Study](https://github.com/HeyLucasLeao/cp-study/tree/master?tab=readme-ov-file)
-- [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
 - [TinyCP](https://github.com/HeyLucasLeao/tinycp)
+- [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
+-  [Meu Modelo Conforme](https://heylucasleao.com.br/Meu-Modelo-Conforme-134a0de3378e80728ad4f279c80fb065)
 
 <!--
 **HeyLucasLeao/HeyLucasLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
