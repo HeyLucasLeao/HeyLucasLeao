@@ -3,7 +3,7 @@
 - [TinyCP](https://github.com/HeyLucasLeao/tinycp)
 - [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
 -  [Meu Modelo Conforme](https://heylucasleao.com.br/Meu-Modelo-Conforme-134a0de3378e80728ad4f279c80fb065)
--  [Feature Residualizer]([https://github.com/HeyLucasLeao/ols-regression-challenge](https://github.com/HeyLucasLeao/feature-residualizer/))
+-  [Feature Residualizer](https://github.com/HeyLucasLeao/feature-residualizer/)
 
 <!--
 **HeyLucasLeao/HeyLucasLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
